@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+table.table{
+    width: 50%;
+    height: 50%;
+}
+
+thead{
+   background-color: aquamarine;
+}
+
+td{
+    border: cadetblue 1px solid;
+}
+
+.hora{
+    background-color: cornflowerblue;
+}
